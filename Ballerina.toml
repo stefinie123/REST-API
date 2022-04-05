@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.2"
+  export = ["test231"]
+  name = "test231"
+  org = "stefiniefernando"
+
